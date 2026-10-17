@@ -8,6 +8,5 @@ A dungeon generator in Python. It uses binary space partitioning (BSP) to split 
 It was the first project I really enjoyed, because I was building something I thought was cool. It taught me how BSP trees work, how to traverse them recursively, and how to pass state up and down a recursion cleanly.
 
 ## Currently learning
-. C
-. BackEnd Development
-. AI Agents and how they work
+- BackEnd Development
+- AI Agents and how they work
