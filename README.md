@@ -1,4 +1,4 @@
-## Hi, I'm Reuel 😶‍🌫️
+## Hi I'm Reuel 😶‍🌫️
 
 I'm an aspiring software engineer based in the UK. I care about understanding what I'm actually building, breaking it into components, and making things that are genuinely useful.
 
